@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+table {
+    border-collapse: separate;
+  
+    
+    color: #fff;
+    border-radius:15px ;
+ }
+ td, th {
+    background: #fff;
+    color: #000;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+ }
